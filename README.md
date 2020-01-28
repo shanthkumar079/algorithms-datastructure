@@ -1,2 +1,2 @@
 # algorithms-datastructure
-You could find the implementation of searching , sorting and some data structure programs here.
+You could find the java implementation of searching , sorting and some data structure programs here.
